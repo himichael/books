@@ -22,5 +22,5 @@
 
 
 ## 分布式
-- [The Datacenter as a Computer](distributed/The Datacenter as a Computer.pdf)
+- [The Datacenter as a Computer](distributed/The_Datacenter_as_a_Computer.pdf)
 
