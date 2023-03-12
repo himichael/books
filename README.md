@@ -24,3 +24,8 @@
 ## Distributed system
 - [The Datacenter as a Computer](distributed/The_Datacenter_as_a_Computer.pdf)
 
+
+
+## Architecture
+[Designing Data Intensive Applications](architecture/Designing_Data_Intensive_Applications.pdf)
+
