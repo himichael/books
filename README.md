@@ -1,7 +1,7 @@
 
 # English version of classical computer books
 
-## programming language
+## Programming language
 - [C++ Concurrency in Action](language/C++_Concurrency_in_Action.pdf)
 - [Effective Modern C++](language/Effective.Modern.C++.en.pdf)
 
