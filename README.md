@@ -18,6 +18,7 @@
 - [Non Volatile Memory Database Management System](database/Non-Volatile_Memory_Database_Management_System.pdf)
 - [Graph Databases](database/OReilly_Graph_Databases.pdf)
 - [Transactional Information Systems](database/Transactional_Information_Systems.pdf)
+- [Database System Concepts(7th)](database/Database_System_Concepts_7th.pdf)
 
 
 
